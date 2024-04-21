@@ -1,4 +1,4 @@
-![discord](https://github.com/Asimbaloch/Asimbaloch/assets/85347127/1f557ac1-58db-4a72-80ed-e1472c07f4db)<p align="left"> <img src="https://komarev.com/ghpvc/?username=Asimbaloch&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanashraf12" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Asimbaloch&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanashraf12" /> </p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
