@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Asimbaloch&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanashraf12" /> </p>
+![discord](https://github.com/Asimbaloch/Asimbaloch/assets/85347127/1f557ac1-58db-4a72-80ed-e1472c07f4db)<p align="left"> <img src="https://komarev.com/ghpvc/?username=Asimbaloch&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanashraf12" /> </p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -9,6 +9,8 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/asim-khan-baloch/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/asimview/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/asimview/" title="Discord Profile"><img width="22" src="images/discord.png.svg"> Discord</a></code>
+  
 </h5>
 <br>
 <p align="center">
