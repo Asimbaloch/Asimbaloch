@@ -12,18 +12,18 @@
 </h5>
 <br>
 <p align="center">
-  Hi, Mehroz Khan I'm an Multi-skilled Front-End/.NET Developer 
+  I'm Mehroz Khan, aspiring to be a full-stack developer with expertise in Front-End.
   <br>
   <br>
-  🎓 I'm currently studying in 6th semester of my software engineering diploma at Aptech Pakistan
+  🎓 I'm currently studying in the 6th semester of my BS in Computer Science at Kohsar University Murree, Pakistan.
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love writing code and learning anything about it
   <br>
   📚 I’m currently Learning REACT/NEXT.JS and more frontend frameworks to enhance my workflow
   <br>
   💬 Ask me anything about from <a href="https://github.com/Asimbaloch/Asimbaloch/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: khanmehroz245@gmail.com">khanmehroz245@gmail.com</a>
+  📫 How to reach me: <a href="mailto: asimseom@gmail.com">asimseom@gmail.com</a>
 </p>
 
 <hr>
