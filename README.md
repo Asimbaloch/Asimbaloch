@@ -12,7 +12,7 @@
 </h5>
 <br>
 <p align="center">
-  I'm Mehroz Khan, aspiring to be a full-stack developer with expertise in Front-End.
+  I'm Asim Khan, aspiring to be a full-stack developer with expertise in Front-End.
   <br>
   <br>
   🎓 I'm currently studying in the 6th semester of my BS in Computer Science at Kohsar University Murree, Pakistan.
